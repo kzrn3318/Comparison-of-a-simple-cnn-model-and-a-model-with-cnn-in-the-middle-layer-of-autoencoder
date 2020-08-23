@@ -1,1 +1,5 @@
-# Comparison-of-a-simple-cnn-model-and-a-model-with-cnn-in-the-middle-layer-of-autoencoder
+mnistを各ラベル100枚ずつ計1000枚用いたときの単純なcnnで画像分類を行う。その後cnnモデルの構造を保ったままautoencoderの出力層をmultipleでcnnにinputする構造に改良する。それにより精度の向上を考えるコード
+
+フレームワーク
+ - tensorflow
+ - keras
