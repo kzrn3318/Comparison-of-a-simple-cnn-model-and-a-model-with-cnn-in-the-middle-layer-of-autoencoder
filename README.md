@@ -1,0 +1,1 @@
+# Comparison-of-a-simple-cnn-model-and-a-model-with-cnn-in-the-middle-layer-of-autoencoder
